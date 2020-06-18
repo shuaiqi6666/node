@@ -1,0 +1,19 @@
+{
+  "name": "node-test",
+  "version": "0.0.1",
+  "description": "学习",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuaiqi6666/node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuaiqi6666/node/issues"
+  },
+  "homepage": "https://github.com/shuaiqi6666/node#readme"
+}
