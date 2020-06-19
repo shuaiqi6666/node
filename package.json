@@ -4,7 +4,8 @@
   "description": "学习",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon index.js"
+    "dev":"nodemon index.js",
+    "test":"nodemon test.js"
   },
   "repository": {
     "type": "git",
